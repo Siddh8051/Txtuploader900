@@ -40,7 +40,7 @@ auth_users = [6790518589]
 # romeo  
 
 
-owner_id = 
+owner_id = 6790518589
 # Extras 
 failed_links = []  # List to store failed links
 fail_cap =f"**➜ This file Contain Failed Downloads while Downloding \n You Can Retry them one more time **"
