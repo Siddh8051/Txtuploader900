@@ -30,11 +30,11 @@ import datetime
 import aiohttp
 
 bot = Client("bot",
-             bot_token= "", 
+             bot_token= "7251335061:AAH-s6BcjuaBoL8AMoMxbW4YIssKXvCKF7k", 
              #bot_token= os.environ.get("BOT_TOKEN"),
-             api_id= ,
-             api_hash= "")
-auth_users = []
+             api_id= 29029800,
+             api_hash= "0258b310e9ebb9b5155b5740d6ecf126")
+auth_users = [6790518589]
 #romeo  
 
 owner_id = 
